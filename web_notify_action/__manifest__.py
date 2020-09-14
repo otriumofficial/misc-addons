@@ -2,7 +2,7 @@
 # License LGPL-3 or later (https://www.gnu.org/licenses/agpl).
 {
     'name': 'User Action Notifications',
-    'version': '12.0.1.0.0',
+    'version': '13.0.1.0.0',
     'author': 'Naglis Jonaitis',
     'category': 'Technical Settings',
     'website': 'https://naglis.me/',
